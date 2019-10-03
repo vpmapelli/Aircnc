@@ -33,7 +33,7 @@ export default function New( { history }) {
             headers: { user_id }
         });
 
-        history.pushState('/dashboard');
+        history.push('/dashboard');
     }
 
     return (
