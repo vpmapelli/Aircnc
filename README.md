@@ -5,6 +5,9 @@ A aplicação é chamada de AirCnC, inspirada pelo AirBnB, em que empresas podem
 Os usuários podem fazer a pesquisa de acordo com as tecnologias de interesse.
 
 Principais tecnologias utilizadas para desenvolvimento:
+
 Backend -> Node.js
+
 Fronted -> React
+
 Mobile -> React native
